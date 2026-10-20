@@ -5,6 +5,3 @@
 [submodule "BiMaUmisc"]
 	path = BiMaUmisc
 	url = https://github.com/cran/BiMaUmisc
-[submodule "TDIagree"]
-	path = TDIagree
-	url = https://github.com/cran/TDIagree
